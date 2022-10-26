@@ -116,7 +116,7 @@ function gameOver(){
     textSize(80)
     textFont('Georgia');
     textStyle(BOLD);
-    text("Game Over 💩",width/2,height/2);
+    text("Game Over 😕",width/2,height/2);
     noLoop()
 }
 
