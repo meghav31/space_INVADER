@@ -3,4 +3,4 @@
 - Press Right/Left Arrow to Move
 - Press Space to Shoot
 
-Play it Here =>  
+## Start game (https://meghav31.github.io/space_INVADER/)
