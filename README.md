@@ -1,7 +1,6 @@
-# Space-Invader-p5js
-Space Invader Game With p5js
+# Space-Invader  Game
 
-Press Right/Left Arrow to Move
-Press Space to Shoot
+- Press Right/Left Arrow to Move
+- Press Space to Shoot
 
 Play it Here =>  
